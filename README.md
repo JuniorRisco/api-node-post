@@ -19,26 +19,27 @@ Asegúrate de tener instalado lo siguiente en tu sistema:
    git clone https://github.com/JuniorRisco/api-node-post.git
 
    ```
-
+2. **Acceder al proyecto**:
    ```bash
    cd proyecto-proveedores
    ```
 
-   Instala las dependencias
-
+3. **Instala las dependencias**:
+**Instala Express y body-parser**:
 ```bash
    npm install express body-parser
 
 ```
 
-Ejecuta el servidor
+4. **Ejecuta en el servidor del api**:
 
 ```bash
 
 node server.js
 
 ```
-
+5. **Ejemplo de Datos**:
+   Aquí tienes un ejemplo de los datos de un proveedor que se almacenan en un archivo JSON:
 ```bash
 
   {
