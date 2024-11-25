@@ -1,0 +1,12 @@
+[
+  {
+    "ruc": "123456780",
+    "nombre": "Proveedor Ejemplo",
+    "email": "proveedor9@example.com",
+    "telefono": "987654921",
+    "direccion": "Calle Falsa 123",
+    "categoria": "Fungicidas",
+    "fechaRegistro": "2024-11-24",
+    "estado": "Activo"
+  }
+]
