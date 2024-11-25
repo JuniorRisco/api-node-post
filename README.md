@@ -16,6 +16,42 @@ Asegúrate de tener instalado lo siguiente en tu sistema:
    Si aún no has descargado el proyecto, clónalo desde GitHub:
 
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-proveedores.git
+   git clone https://github.com/JuniorRisco/api-node-post.git
+
+   ```
+
+   ```bash
    cd proyecto-proveedores
    ```
+
+   Instala las dependencias
+
+```bash
+   npm install express body-parser
+
+```
+
+Ejecuta el servidor
+
+```bash
+
+node server.js
+
+```
+
+```bash
+
+  {
+    "ruc": "123456781",
+    "nombre": "Junior Risco",
+    "email": "riscotest@example.com",
+    "telefono": "987654922",
+    "direccion": "Calle Falsa 123",
+    "categoria": "Fungicidas",
+    "fechaRegistro": "2024-11-24",
+    "estado": "Activo"
+  }
+
+
+
+```
